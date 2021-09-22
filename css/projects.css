@@ -1,0 +1,193 @@
+.image, .image2{
+    position: relative;
+    width: 100%;
+}
+
+.musicplayer, .todo, .portfolio{
+    position: absolute;
+    width: 40%;
+    border-radius: 50px;
+    left: 5%;
+}
+
+.musicplayer{
+    margin-top: 8%;
+}
+
+.todo{
+    margin-top: 47%;
+}
+
+.portfolio{
+    margin-top: 85%;
+}
+
+.img-overlay{
+    position: absolute;
+    font-size: 1.5rem;
+    margin-top: 7%;
+    left: 5%;
+    padding: 10% 12% 9.6% 14.3%;
+    border-radius: 50px;
+    background: rgba(0, 0, 0, 0.6);
+    opacity: 0;
+    transition: all 0.5s ease;
+}
+
+.img2-overlay{
+    margin-top: 46%;
+    position: absolute;
+    font-size: 1.5rem;
+    left: 5%;
+    padding: 11.5% 15.9% 9.6% 14.3%;
+    border-radius: 50px;
+    background: rgba(0, 0, 0, 0.8);
+    opacity: 0;
+    transition: all 0.5s ease;
+}
+
+.img3-overlay{
+    margin-top: 83%;
+    position: absolute;
+    font-size: 1.5rem;
+    left: 5%;
+    padding: 10% 15.1% 12% 16%;
+    border-radius: 50px;
+    background: rgba(0, 0, 0, 0.85);
+    opacity: 0;
+    transition: all 0.5s ease
+}
+
+.img-overlay p a, .img2-overlay p a, .img3-overlay p a{
+    text-decoration: none;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: rgb(241, 91, 91);
+    transition: all 0.5s ease;
+}
+
+.img-overlay:hover, .img2-overlay:hover, .img3-overlay:hover{
+    opacity: 1;  
+}
+
+.img-overlay p a:hover, .img2-overlay p a:hover, .img3-overlay p a:hover{
+    text-decoration-color: white;
+    color: rgb(241, 91, 91);
+}
+
+.description button, .description2 button, .description3 button{
+    position: absolute;
+    font-size: 1.2rem;
+    right: 23%;
+    border-radius: 50px;
+    background: rgb(241, 91, 91);
+    padding: 0 3% 0 3%;
+    border: none;
+    transition: all 0.5s ease;
+}
+
+.description button{
+    margin-top: 13%;
+}
+
+.description2 button{
+    margin-top: 52%;
+}
+
+.description3 button{
+    margin-top: 91%;
+}
+
+.description button:hover, .description2 button:hover, .description3 button:hover{
+    background: white;
+    cursor: pointer;
+}
+
+.description button a, .description2 button a, .description3 button a{
+    text-decoration: wavy;
+    color: black;
+}
+
+.description p, .description2 p, .description3 p{
+    position: absolute;
+    font-size: 17px;
+    left: 55%;
+    right: 18%;
+    color: white;
+    border-left: white;
+    text-align: justify;
+    font-weight: lighter;
+}
+
+.description p{
+    margin-top: 20%;
+}
+
+.description2 p{
+    margin-top: 58%;
+}
+
+.description3 p{
+    margin-top: 97%;
+}
+
+.description hr, .description2 hr{
+    position: absolute;   
+    width: 90%;
+    left: 5%;
+    right: 5%;
+    border: 0.5px solid rgb(241, 91, 91);
+    opacity: 0.6;
+}
+
+.description hr{
+    margin-top: 40%;
+}
+
+.description2 hr{
+    margin-top: 80%;
+}
+
+.footer{
+    position: absolute;
+    background: rgb(236, 68, 68);
+    height: 8%;
+    left: 15%;
+    right: 15%;
+    bottom: -200%;
+}
+
+.footer ul{
+    position: relative;
+    list-style: none;
+    display: flex;
+    font-size: 1rem;
+    bottom: 12%;
+}
+
+.fa{
+    font-size: 1.8rem;
+    padding: 5%;
+    transition: all 0.6s ease;
+    color: black;
+}
+
+.fa:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.footer-nav ul{
+    position: absolute;
+    display: flex;
+    list-style: none;
+    color: white;
+    right: 53%;
+    margin-top: 130%;
+    font-size: 16px;   
+}
+
+.footer-nav ul li{
+    justify-content: space-between;
+    padding: 0 25% 0 25%;
+}

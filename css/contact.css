@@ -1,0 +1,37 @@
+.contact ul{
+    position: absolute;
+    left: 20%;
+    right: 40%;
+    color: white;
+    list-style: none;
+    top: 30%;
+    border-left: 5px solid rgb(241, 91, 91);
+    animation: animatecontact 3s;
+}
+    
+
+
+.contact li{
+    padding: 5%;
+}
+
+.contact ul li span{
+    color: rgb(241, 91, 91);
+    font-size: 1.3rem;
+}
+
+.fa{
+    font-size: 2rem;
+    color: white;
+}
+
+.fa:hover{
+    cursor: pointer;
+    color: rgb(241, 91, 91);   
+}
+
+@keyframes animatecontact {
+    0%   { left: 10%; top: 30%;}
+    25%  { left: 20%; top: 30%;}
+}
+
