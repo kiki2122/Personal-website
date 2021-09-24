@@ -1,6 +1,6 @@
 .about{
     position: absolute;
-    top: 35%;
+    top: 29%;
     left: 25%;
     animation: animateabout 3s;
 }
@@ -49,7 +49,7 @@ h1 span{
     height: 8%;
     left: 15%;
     right: 15%;
-    bottom: -42%;
+    bottom: -27%;
 }
 
 .footer ul{
@@ -78,7 +78,7 @@ h1 span{
     list-style: none;
     color: white;
     right: 30%;
-    margin-top: 115%;
+    margin-top: 100%;
     font-size: 16px;   
 }
 
@@ -88,8 +88,8 @@ h1 span{
 }
 
 @keyframes animateabout {
-    0%   { left: 0%; top: 35%;}
-    25%  { left: 25%; top: 35%;}
+    0%   { left: 0%; top: 29%;}
+    25%  { left: 25%; top: 29%;}
 }
 
 @media (max-width: 720px){
