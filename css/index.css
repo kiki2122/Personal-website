@@ -95,7 +95,7 @@ h1 span{
 @media (max-width: 500px){
     .footer-nav ul{
         position: absolute;
-        bottom: 5%;
+        margin-top: 125%
         font-size: 14px:
     }
     .footer-nav ul li{
@@ -108,6 +108,6 @@ h1 span{
         height: 9%;
         left: 0%;
         right: 0%;
-        bottom: 0%;
+        bottom: -42%;
     }
 }    
