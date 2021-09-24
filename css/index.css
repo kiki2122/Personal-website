@@ -104,11 +104,14 @@ h1 span{
     }
     
     .footer{
-        
-        background: rgb(236, 68, 68);
+        background: none;
         height: 9%;
         left: 0%;
-        right: 0%;
         bottom: 0%;
+        display: flex;
+        flex-direction: column;
     }
-}    
+    .fa{
+        color: rgb(236, 68, 68);
+    }    
+}
