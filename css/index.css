@@ -105,10 +105,13 @@ h1 span{
     
     .footer{
         position: fixed;
-        height: 9%;
+        height: 6%;
         left: 0%;
         bottom: 0%;
-      
+        right:0%;
+    }
+    .fa{
+        padding: 6%;
     }
     
 }
