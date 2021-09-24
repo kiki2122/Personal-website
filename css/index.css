@@ -44,7 +44,7 @@ h1 span{
 }
 
 .footer{
-    position: absolute;
+    position: relative;
     background: rgb(236, 68, 68);
     height: 8%;
     left: 15%;
