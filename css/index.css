@@ -95,11 +95,12 @@ h1 span{
 @media (max-width: 500px){
     .footer-nav ul{
         position: absolute;
-        bottom: 10%;
+        bottom: 5%;
         font-size: 14px:
     }
     .footer-nav ul li{
-        padding: 0 20% 0 20%;
+        padding: 0 10% 0 10%;
+        justify-content: center;
     }
     
     .footer{
