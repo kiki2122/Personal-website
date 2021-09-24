@@ -92,7 +92,7 @@ h1 span{
     25%  { left: 25%; top: 35%;}
 }
 
-@media screen and (max-width: 720px){
+@media (max-width: 720px){
     
    
     .footer-nav ul{
