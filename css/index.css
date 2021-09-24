@@ -100,15 +100,14 @@ h1 span{
     }
     .footer-nav ul li{
         padding: 0 10% 0 10%;
-        justify-content: center;
     }
     
     .footer{
         position: absolute;
         background: rgb(236, 68, 68);
-        height: 8%;
-        left: 15%;
-        right: 25%;
+        height: 9%;
+        left: 0%;
+        right: 0%;
         bottom: 0%;
     }
 }    
