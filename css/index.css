@@ -95,7 +95,8 @@ h1 span{
 @media (max-width: 500px){
     
     body{
-        right: 5%;
+        right: 0%;
+        left: 0%
     }
     .footer-nav ul{
        display: none;
