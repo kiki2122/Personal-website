@@ -91,3 +91,31 @@ h1 span{
     0%   { left: 0%; top: 35%;}
     25%  { left: 25%; top: 35%;}
 }
+
+@media (max-width: 500px){
+    
+   
+    .footer-nav ul{
+       display: none;
+    }
+    
+    .footer-nav ul li{
+        display: none;
+    }
+    
+    .footer{
+        position: fixed;
+        height: 6%;
+        left: 0%;
+        bottom: 0%;
+        right:0%;
+    }
+    .fa{
+        padding: 6%;
+    }
+    .footer ul{
+        bottom: 0%;
+        padding: 0 6% 0 6%;
+    }
+}
+
