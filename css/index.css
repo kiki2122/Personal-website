@@ -94,10 +94,7 @@ h1 span{
 
 @media (max-width: 500px){
     
-    body{
-        right: 0%;
-        left: 0%
-    }
+   
     .footer-nav ul{
        display: none;
     }
@@ -111,7 +108,7 @@ h1 span{
         background: rgb(236, 68, 68);
         height: 9%;
         left: 0%;
-        right: -5%;
+        right: -10%;
         bottom: 0%;
     }
 }    
