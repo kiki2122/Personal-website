@@ -102,11 +102,11 @@ h1 span{
     }
     
     .footer{
-        position: fixed;
+        position: absolute;
         background: rgb(236, 68, 68);
         height: 9%;
         left: 0%;
-        right: 0%;
+        right: -5%;
         bottom: 0%;
     }
 }    
