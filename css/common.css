@@ -10,6 +10,11 @@ body{
     
 }
 
+::selection{
+    color: black;
+    background: white;
+}
+
 ::-webkit-scrollbar{
     width: 10px;
 }
