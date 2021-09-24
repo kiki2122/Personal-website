@@ -97,6 +97,10 @@ h1 span{
        display: none;
     }
     
+    .footer-nav ul li{
+        display: none;
+    }
+    
     .footer{
         position: absolute;
         background: rgb(236, 68, 68);
