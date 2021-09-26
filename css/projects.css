@@ -249,17 +249,17 @@
     }
     .img-overlay{
         font-size: 0.7rem;
-        padding-bottom: 5%;
-        padding-right: 5.5%
+        padding-bottom: 5.5%;
+        padding-right: 6%
     }
     .img2-overlay{
         font-size: 0.7rem;
         padding-bottom: 5.7%;
-        padding-right: 8.5%
+        padding-right: 10.5%
     }
     .img3-overlay{
         font-size: 0.7rem;
-        padding-bottom: 7%;
-        padding-right: 8.5%
+        padding-bottom: 7.5%;
+        padding-right: 10.5%
     }
 }
