@@ -224,19 +224,19 @@
     }
     .description p, .description2 p, .description3 p{
         font-size: 10px;
-        right: 5%
+        right: 3%
     }
     
     .image3{
         position: absolute;
-        top: 40%;
+        top: 38%;
     }
     .image2{
         position: absolute;
-        top: 30%;
+        top: 28%;
     }
     .image{
         position: absolute;
-        top: 20%;
+        top: 18%;
     }
 }
