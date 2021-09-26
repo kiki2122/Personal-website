@@ -249,13 +249,13 @@
     }
     .img-overlay{
         font-size: 0.7rem;
-        margin-top: 8%;
+        margin-top: 7.5%;
         padding-bottom: 5.7%;
         padding-right: 6.2%
     }
     .img2-overlay{
         font-size: 0.7rem;
-        margin-top: 47%;
+        margin-top: 46.5%;
         padding-bottom: 5.7%;
         padding-right: 11.5%
     }
@@ -263,6 +263,6 @@
         font-size: 0.7rem;
         margin-top: 84%;
         padding-bottom: 7.5%;
-        padding-right: 10.7%
+        padding-right: 10.9%
     }
 }
