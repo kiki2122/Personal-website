@@ -230,4 +230,12 @@
         position: absolute;
         top: 40%;
     }
+    .image2{
+        position: absolute;
+        top: 30%;
+    }
+    .image{
+        position: absolute;
+        top: 20%;
+    }
 }
