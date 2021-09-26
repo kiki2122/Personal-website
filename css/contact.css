@@ -35,3 +35,8 @@
     25%  { left: 20%; top: 30%;}
 }
 
+@media (max-width:720px){
+    .contact ul li span{
+        font-size: 1rem;
+    }
+}
