@@ -239,4 +239,12 @@
         position: absolute;
         top: 15%;
     }
+    .description hr{
+        top: 42%;
+        width: 100%;
+    }
+    .description2 hr{
+        top: 82%;
+        width: 100%;
+    }
 }
