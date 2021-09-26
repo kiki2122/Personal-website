@@ -91,7 +91,7 @@
 }
 
 .description2 button{
-    margin-top: 52%;
+    margin-top: 52%; 
 }
 
 .description3 button{
@@ -220,6 +220,7 @@
     
     .description button, .description2 button, .description3 button{
         font-size: 0.8rem;
+        right: 10%;
     }
     .description p, .description2 p, .description3 p{
         font-size: 10px;
