@@ -218,10 +218,11 @@
         padding: 0 6% 0 6%;
     }
     
-    .description button{
+    .description button, .description2 button, .description3 button{
         font-size: 0.8rem;
     }
-    .description p{
+    .description p, .description2 p, .description3 p{
         font-size: 10px;
+        right: 10%
     }
 }
