@@ -248,8 +248,18 @@
         width: 100%;
     }
     .img-overlay{
-        font-size: 0.8rem;
-        padding-bottom: 3%;
-        padding-right: 2%
+        font-size: 0.7rem;
+        padding-bottom: 3.5%;
+        padding-right: 2.5%
+    }
+    .img2-overlay{
+        font-size: 0.7rem;
+        padding-bottom: 3.5%;
+        padding-right: 2.5%
+    }
+    .img3-overlay{
+        font-size: 0.7rem;
+        padding-bottom: 3.5%;
+        padding-right: 2.5%
     }
 }
